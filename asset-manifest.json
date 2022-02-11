@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-with-traversy-media/static/css/main.764efa3f.css",
+    "main.js": "/react-with-traversy-media/static/js/main.d4708555.js",
+    "static/js/787.04fa5962.chunk.js": "/react-with-traversy-media/static/js/787.04fa5962.chunk.js",
+    "index.html": "/react-with-traversy-media/index.html",
+    "main.764efa3f.css.map": "/react-with-traversy-media/static/css/main.764efa3f.css.map",
+    "main.d4708555.js.map": "/react-with-traversy-media/static/js/main.d4708555.js.map",
+    "787.04fa5962.chunk.js.map": "/react-with-traversy-media/static/js/787.04fa5962.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.764efa3f.css",
+    "static/js/main.d4708555.js"
+  ]
+}
